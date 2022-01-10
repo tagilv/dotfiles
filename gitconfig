@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = viktor.tagil@gmail.com
+	name = Viktor Tagil
